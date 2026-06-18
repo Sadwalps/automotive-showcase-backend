@@ -1,0 +1,16 @@
+{
+  "name": "automotive-showcase-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
