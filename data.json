@@ -1,3 +1,31 @@
 {
+  "admin": [
+    {
+      "username": "sadwal",
+      "email": "sadwal@gmail.com",
+      "password": "sadwal123",
+      "id": 1
+    },
+    {
+      "username": "kik",
+      "email": "kik@gmail.com",
+      "password": "kik123",
+      "id": 2
+    },
+    {
+      "username": "sadwa",
+      "email": "sadwa@gmail.com",
+      "password": "sadwa123",
+      "id": 3
+    },
+    {
+      "username": "sa",
+      "email": "sa@gmail.com",
+      "password": "sa123",
+      "id": 4
+    }
+  ],
+  "users":[
     
+  ]
 }

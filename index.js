@@ -11,7 +11,7 @@ const PORT = 4001 || process.env.PORT
 const middleware = jsonServer.defaults()
 
 //set router
-const router = jsonServer.router('data.json')
+const router = jsonServer.router("data.json")
 
 //tell server to use middleware
 autoServer.use(middleware)
@@ -25,7 +25,7 @@ autoServer.listen(PORT, () => {
 })
 
 //check request
-autoServer.get(`/`, (req, res) => {
-    res.send(`Get Request Recieved`)
-})
+// autoServer.get(`/`, (req, res) => {
+//     res.send(`Get Request Recieved`)
+// })
 
