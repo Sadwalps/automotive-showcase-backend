@@ -31,6 +31,18 @@
       "email": "thomas@gmail.com",
       "password": "thomas123",
       "id": 1
+    },
+    {
+      "username": "kut",
+      "email": "kut@gmail.com",
+      "password": "kut123",
+      "id": 2
+    },
+    {
+      "username": "kik",
+      "email": "kik@gmail.com",
+      "password": "kik123",
+      "id": 3
     }
   ],
   "cars": [
@@ -42,6 +54,7 @@
       "topspeed": "1500km/hr",
       "engine": "v12",
       "imgurl": "https://tse1.mm.bing.net/th/id/OIP.UpGktAz0m1d1Jdas66W_AwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "The Lamborghini Fenomeno is a limited‑edition V12 hybrid hypercar (29 units) producing 1,080 CV, unveiled in 2025 as a “Few‑Off” model showcasing Lamborghini’s most advanced design and engineering",
       "id": 1
     },
     {
@@ -52,7 +65,22 @@
       "topspeed": "1200km/hr",
       "engine": "2 turbo hybrid engine",
       "imgurl": "https://tse4.mm.bing.net/th/id/OIP.VQiC_687f8coafyruo8ScwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "The Ferrari SF90 Stradale is Ferrari’s first series-production plug-in hybrid supercar, delivering up to 986 hp through a twin-turbo V8 and three electric motors",
       "id": 2
+    }
+  ],
+  "likedcars": [
+    {
+      "carname": "ferrari sf90",
+      "brand": "ferrari",
+      "category": "hybrid supercar",
+      "horsepower": "1800hp",
+      "topspeed": "1200km/hr",
+      "engine": "2 turbo hybrid engine",
+      "imgurl": "https://tse4.mm.bing.net/th/id/OIP.VQiC_687f8coafyruo8ScwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "The Ferrari SF90 Stradale is Ferrari’s first series-production plug-in hybrid supercar, delivering up to 986 hp through a twin-turbo V8 and three electric motors",
+      "userId": 2,
+      "id": 1
     }
   ]
 }
